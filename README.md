@@ -5,6 +5,6 @@ A network is a conduit for information, it can be as simple as two tin cans tied
 The security in computer networks is a rapidly growing area of concern. Most of the valuable information resides on the networks, making the network an inevitable entity for survival. All these small networks are connected further to wide area networks which in turn forms the basis of Internet. The Internet is the world’s largest collection of networks that reaches universities, government labs, commercial enterprises, and military installations in many countries. 
 The main objective of this project is to bring improved network security through automation by: 
 
-Scanning a network, exploring and analyzing vulnerabilities.
-Development of a proactive network surveillance framework.
-Learning and monitoring network in real time.
+1. Scanning a network, exploring and analyzing vulnerabilities.
+2. Development of a proactive network surveillance framework.
+3. Learning and monitoring network in real time.
